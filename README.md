@@ -5,7 +5,7 @@ This is a Mod for the Battletech game by HBS and required the folloing DLC's and
 1. Battletech Game 1.9.1
 2. Flashpoint
 3. Urban Warfare
-4. Meavy Metal
+4. Heavy Metal
 
 # Installation Directions
 
