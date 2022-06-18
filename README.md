@@ -2,10 +2,10 @@
 Scorpion's Nest Git Repo
 This is a Mod for the Battletech game by HBS and required the folloing DLC's and version
 
-Battletech Game 1.9.1
-Flashpoint
-Urban Warfare
-Meavy Metal
+1. Battletech Game 1.9.1
+2. Flashpoint
+3. Urban Warfare
+4. Meavy Metal
 
 # Installation Directions
 
